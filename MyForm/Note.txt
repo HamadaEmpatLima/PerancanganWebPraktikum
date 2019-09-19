@@ -1,0 +1,13 @@
+Nama	: Hamada Ananta Burhanuddin
+NIM	: 162410101136
+Kelas	: Perancangan Web A
+
+PerancanganWebPraktikum
+https://github.com/HamadaEmpatLima/PerancanganWebPraktikum
+
+
+Summary :
+Tugas Pertama Mata Kuliah Perancangan Web (Praktikum) : Membuat Form
+
+Deskripsi :
+Tugas pertama Praktikum pada mata kuliah Perancangan Web yakni membuat form yang terdiri atas Nama, NIM, Alamat (textarea), Password, Jenis Kelamin (radio), copyright berupa text yang berisi Nama dan NIM di pojok kiri bawah, foto pribadi berukuran 150px di pojok kanan bawah. 
